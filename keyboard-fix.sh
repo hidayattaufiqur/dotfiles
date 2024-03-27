@@ -1,0 +1,1 @@
+/home/nixos/keyboard-fix.sh
